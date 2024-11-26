@@ -1,4 +1,4 @@
-# Hi there, I'm Jailbreakios19! 👋
+# Hi there, I'm PredictAnalytics! 👋
 
 ## About Me
 - 🔧 Enthusiast in PC development and data analysis.
@@ -17,4 +17,4 @@
 - **Machine Learning:** Logistic regression, classification, and clustering
 
 ## Get in Touch
-- **GitHub:** [github.com/Jailbreakios19](https://github.com/Jailbreakios19)
+- **GitHub:** [github.com/PredictAnalytics](https://github.com/PredictAnalytics)
