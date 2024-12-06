@@ -26,6 +26,7 @@
 ![image](https://github.com/user-attachments/assets/d875b290-c7e1-433b-8636-536e89484673)
 
 ## Get in Touch
-- **GitHub:** [github.com/JDavydovPortfolio](https://github.com/JDavydovPortfolio)
-- ![image](https://github.com/user-attachments/assets/331406f4-263a-4bc9-83b0-e304084d95ef)
- **LinkedIn:**  
+**GitHub:** [github.com/JDavydovPortfolio](https://github.com/JDavydovPortfolio)
+
+ ![image](https://github.com/user-attachments/assets/331406f4-263a-4bc9-83b0-e304084d95ef)
+ **LinkedIn:** [Profile](https://www.linkedin.com/in/joshua-davydov/) 
